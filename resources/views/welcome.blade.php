@@ -71,7 +71,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
+                    <a href="https://app.swaggerhub.com/apis-docs/rmerceron/CEETEE-API/1.0.0">Docs</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
             </div>
